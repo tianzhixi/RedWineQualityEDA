@@ -1,0 +1,15 @@
+Web sites: 
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/diamondsExample.html
+http://docs.ggplot2.org/current/
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub?embedded=true
+https://docs.google.com/document/d/1L2Wwofs6D8Crd0QLZ1-RxBHlVoBZ3mec2xWgxrmUs5I/pub?embedded=true
+http://www.ats.ucla.edu/stat/r/dae/ologit.htm
+
+books: N/A
+
+forums: N/A
+
+blog posts: N/A
+
+github repositories: https://github.com/udacity/ud032
